@@ -14,6 +14,14 @@
     "rebornix.Ruby"
     "burkeholland.simple-react-snippets"
     "dsznajder.es7-react-js-snippets"
+    "formulahendry.auto-close-tag"
+    "formulahendry.auto-rename-tag"
+    "esbenp.prettier-vscode"
+    "dbaeumer.vscode-eslint"
+    "streetsidesoftware.code-spell-checker"
+    "wayou.vscode-todo-highlight"
+    "mhutchie.git-graph"
+    "eamodio.gitlens"
   ];
   idx.previews = {
     previews = {
