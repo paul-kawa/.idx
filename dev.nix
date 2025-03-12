@@ -6,6 +6,8 @@
     pkgs.bundler
     pkgs.corepack
     pkgs.bun
+    pkgs.tree
+    pkgs.gh
   ];
   idx.extensions = [
     "saoudrizwan.claude-dev"
