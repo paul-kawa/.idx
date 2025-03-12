@@ -2,7 +2,7 @@
   channel = "stable-24.05";
   packages = [
     pkgs.nodejs_20
-    pkgs.ruby_3_4
+    pkgs.ruby_3_3
     pkgs.bundler
     pkgs.corepack
     pkgs.bun
