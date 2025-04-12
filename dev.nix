@@ -22,6 +22,8 @@
     "wayou.vscode-todo-highlight"
     "mhutchie.git-graph"
     "eamodio.gitlens"
+    "GitHub.copilot"
+    "GitHub.copilot-chat"
   ];
   idx.previews = {
     previews = {
